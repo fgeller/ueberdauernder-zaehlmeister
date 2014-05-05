@@ -1,2 +1,2 @@
-Überdauernde Zählmeister
+Überdauernder Zählmeister
 ==========================
